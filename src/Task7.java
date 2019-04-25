@@ -27,17 +27,6 @@ public class Task7 {
             System.out.print("Такой константы нет!\n");
 
 
-  /*  case 1: t = 7;
-        System.out.print("Данное значение имеется в константах" + x + "\n");
-    break;
-
-    case t = 23:
-        System.out.print("Данное значение имеется в константах" + y + "\n");
-    break;
-
-    case t = 65:
-        System.out.print("Данное значение имеется в константах" + z + "\n");
-        break; **/
         }
     }
 
