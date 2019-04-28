@@ -13,17 +13,10 @@ public class Task7 {
         int y=23;
         int z=65;
 
-    if (t == x)
-        System.out.print("Данное значение имеется в константе  X\n");
+    if (t == x || t == y || t == z)
+        System.out.print("Данное значение имеется в константах\n");
 
-    else if (t == y)
-        System.out.print("Данное значение имеется в константе Y\n");
-
-    else if (t == z)
-        System.out.print("Данное значение имеется в константе Z\n");
-
-
-           else
+            else
             System.out.print("Такой константы нет!\n");
 
 
